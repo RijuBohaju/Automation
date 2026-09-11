@@ -1,11 +1,24 @@
-##Cypress E2E Automation of Daraz Nepal- Online shopping platform
-#Project Overview
+# Cypress E2E Automation of Daraz Nepal- Online shopping platform
+## Project Overview
 This project is an End‑to‑End test automation project. I built it with Cypress to check the main user flows on the Daraz Nepal e‑commerce website.
 
 The purpose of this project is to show QA automation skills. It covers element identification, assertions, handling web elements, cross‑origin navigation, negative testing and reusable Cypress test practices.
-Application Under Test: Daraz Nepal
-Website: https://www.daraz.com.np/
-Automation Tool: Cypress
-Language: JavaScript
-Browser: Electron
-Testing Type: End-to-End (E2E) Testing
+
+- Application Under Test: Daraz Nepal
+- Website: https://www.daraz.com.np/
+- Automation Tool: Cypress
+- Language: JavaScript
+- Browser: Electron
+- Testing Type: End-to-End (E2E) Testing
+
+  ## Test Scenarios
+  ### Login
+  - Valid Login
+  - Invalid Login
+  - Validation
+ 
+  ### Product Search
+  ### Buy Now/ Add to Cart
+  - Buy Now without login
+  - Add to Cart without Login
+  ### Checkout Flow
